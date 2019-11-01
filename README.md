@@ -1,2 +1,4 @@
 # school_reviews_public
-Topic modeling of school reviews
+
+**Objective:** Use topic modeling to understand what characteristics of schools parents value. 
+
